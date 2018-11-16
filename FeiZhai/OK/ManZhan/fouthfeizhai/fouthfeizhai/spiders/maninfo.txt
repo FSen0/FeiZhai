@@ -1,0 +1,229 @@
+{"man_time": "2018-09-08", "man_addr": "宁波", "man_name": "宁波第一届辉夜音乐动漫嘉年华", "man_price": "预售45现场50"}
+{"man_time": "2018-09-15", "man_addr": "上海", "man_name": "2018魔都和风暮秋祭", "man_price": "98米"}
+{"man_time": "2018-09-15", "man_addr": "沈阳", "man_name": "第一届忆梦动漫嘉年华", "man_price": "预30现35"}
+{"man_time": "2018-09-15", "man_addr": "北京", "man_name": "2018北京数字娱乐节动漫游戏展", "man_price": "39米"}
+{"man_time": "2018-09-15", "man_addr": "昆明", "man_name": "871ACE动漫节", "man_price": "预售40现场50"}
+{"man_time": "2018-09-16", "man_addr": "保定", "man_name": "保定首届PLCG游戏动漫展", "man_price": "45"}
+{"man_time": "2018-09-22", "man_addr": "上海", "man_name": "2018自由主义动漫盛典-上海站", "man_price": "免费"}
+{"man_time": "2018-09-22", "man_addr": "天津", "man_name": "2018『马克菠萝』次元动漫MBL 002", "man_price": "免费"}
+{"man_time": "2018-09-22", "man_addr": "西安", "man_name": "2018第十届中国西部动漫文化节暨WESTJOY数字互动娱乐展陕西分赛区", "man_price": "等待补充"}
+{"man_time": "2018-09-23", "man_addr": "沈阳", "man_name": "2018梦幻理想乡动漫展-沈阳中秋节动漫嘉年华", "man_price": "预35现40"}
+{"man_time": "2018-09-23", "man_addr": "柳州", "man_name": "柳州第十届ANIMATION DREAM 动漫展（AD10）", "man_price": "预35现40"}
+{"man_time": "2018-09-23", "man_addr": "郑州", "man_name": "2018 郑州梦乡动漫展", "man_price": "预售50现场60"}
+{"man_time": "2018-09-23", "man_addr": "石河子", "man_name": "2018石河子动漫游戏同人祭", "man_price": "等待补充"}
+{"man_time": "2018-09-30", "man_addr": "石家庄", "man_name": "2018中国·石家庄 第十三届国际动漫博览交易会", "man_price": "等待补充"}
+{"man_time": "2018-10-01", "man_addr": "大同", "man_name": "2018大同“秋田祭”动漫游戏艺术展", "man_price": "预40现45"}
+{"man_time": "2018-10-01", "man_addr": "北京", "man_name": "第六届北京惠民文化消费季暨 第28届中国（北京）动漫游戏嘉年华（IDO28）", "man_price": "65米"}
+{"man_time": "2018-10-01", "man_addr": "成都", "man_name": "第二届成都世界线动漫展“初心所向，素履以往”", "man_price": "预50米"}
+{"man_time": "2018-10-01", "man_addr": "济宁", "man_name": " 2018济宁森罗万象14国风盛典", "man_price": "预40，场单45"}
+{"man_time": "2018-10-01", "man_addr": "天津", "man_name": "2018玄鸟古风市集·三国鼎立", "man_price": "预40现45"}
+{"man_time": "2018-10-01", "man_addr": "平顶山", "man_name": "2018平顶山元气动漫嘉年华", "man_price": "预40现50"}
+{"man_time": "2018-10-01", "man_addr": "绍兴", "man_name": "2018诸暨AnimeEden02动漫游戏展", "man_price": "预40现50"}
+{"man_time": "2018-10-01", "man_addr": "嘉兴", "man_name": "2018海盐国庆BIG动漫游戏展", "man_price": "预40现45"}
+{"man_time": "2018-10-01", "man_addr": "福州", "man_name": "第12届福州ACC动漫展", "man_price": "55米"}
+{"man_time": "2018-10-01", "man_addr": "赣州", "man_name": "2018于都FS动漫游戏嘉年华", "man_price": "预30现45"}
+{"man_time": "2018-10-01", "man_addr": "新余", "man_name": "2018新余MY03国风动漫展", "man_price": "预35现40"}
+{"man_time": "2018-10-01", "man_addr": "泰安", "man_name": "2018泰安万象同人祭06特别篇", "man_price": "预40现45"}
+{"man_time": "2018-10-01", "man_addr": "德州", "man_name": "2018唯萌WCGN秋日祭", "man_price": "预35现40"}
+{"man_time": "2018-10-01", "man_addr": "威海", "man_name": "2018威海光都秋日庆生祭", "man_price": "预45现50"}
+{"man_time": "2018-10-01", "man_addr": "济宁", "man_name": "2018第二届CC米诺动漫嘉年华", "man_price": "预40现45"}
+{"man_time": "2018-10-01", "man_addr": "临沂", "man_name": "第七届妖妖灵动漫嘉年华", "man_price": "预35现40"}
+{"man_time": "2018-10-01", "man_addr": "济南", "man_name": "第20届齐鲁国际动漫展", "man_price": "预45现50"}
+{"man_time": "2018-10-01", "man_addr": "平顶山", "man_name": "2018平顶山喵YO动漫展", "man_price": "预40现45"}
+{"man_time": "2018-10-01", "man_addr": "荆门", "man_name": "2018荆门第10届悦漫节", "man_price": "预50现60"}
+{"man_time": "2018-10-01", "man_addr": "荆州", "man_name": "第15届童话三国国际嘉年华", "man_price": "等待补充"}
+{"man_time": "2018-10-01", "man_addr": "武汉", "man_name": "第十六届艾妮动漫游戏展", "man_price": "预45现50"}
+{"man_time": "2018-10-01", "man_addr": "宜昌", "man_name": "2018宜昌西陵NGCP动漫嘉年华", "man_price": "围观50米"}
+{"man_time": "2018-10-01", "man_addr": "长沙", "man_name": "第22届长沙ACC动漫展", "man_price": "预45现50"}
+{"man_time": "2018-10-01", "man_addr": "深圳", "man_name": "深圳第五届国际电玩节", "man_price": "预45现50"}
+{"man_time": "2018-10-01", "man_addr": "广州", "man_name": " 2018广州11th CICF EXPO中国国际漫画节动漫游戏展", "man_price": "预75现80"}
+{"man_time": "2018-10-01", "man_addr": "韶关", "man_name": "第五届韶关木森动漫展", "man_price": "预35现40"}
+{"man_time": "2018-10-01", "man_addr": "玉林", "man_name": "2018玉林·第二届乐橙动漫游戏节【夏日大作战】", "man_price": "预35米"}
+{"man_time": "2018-10-01", "man_addr": "重庆", "man_name": "2018中国西部动漫文化节暨WestJoy动漫数字互动娱乐展", "man_price": "预60米"}
+{"man_time": "2018-10-01", "man_addr": "成都", "man_name": "2018成都聚客动漫游戏互动展", "man_price": "预55现60"}
+{"man_time": "2018-10-01", "man_addr": "南充", "man_name": "2018南充9号创次元秋日祭", "man_price": "预30现35"}
+{"man_time": "2018-10-01", "man_addr": "南充", "man_name": "2018南充FreeZ动漫学园祭", "man_price": "预25现30"}
+{"man_time": "2018-10-01", "man_addr": "昆明", "man_name": "2018昆明萌卡同人祭01", "man_price": "预45米"}
+{"man_time": "2018-10-01", "man_addr": "西安", "man_name": "2018西安joy--马腾空动漫游戏嘉年华", "man_price": "预50米"}
+{"man_time": "2018-10-01", "man_addr": "西安", "man_name": "2018西安WAG动漫游戏展", "man_price": "预40现50"}
+{"man_time": "2018-10-01", "man_addr": "西安", "man_name": "2018西安次元逃跑动漫游戏展", "man_price": "预45现50"}
+{"man_time": "2018-10-01", "man_addr": "银川", "man_name": "2018宁夏A卡动漫节—正青春", "man_price": "预45现50"}
+{"man_time": "2018-10-01", "man_addr": "南昌", "man_name": "2018 绿地CGG漫游引力动漫文化展", "man_price": "预售45现场50"}
+{"man_time": "2018-10-01", "man_addr": "大庆", "man_name": "2018大庆第一届半城游戏动漫节", "man_price": "预30现35"}
+{"man_time": "2018-10-01", "man_addr": "南京", "man_name": "2018南京国际动漫游戏博览会", "man_price": "60~300米"}
+{"man_time": "2018-10-01", "man_addr": "武汉", "man_name": "2018武汉第三届CWA武汉站同人展", "man_price": "预40现50"}
+{"man_time": "2018-10-01", "man_addr": "合肥", "man_name": "2018 ComicDawn动漫展-合肥站", "man_price": "预售55现场65"}
+{"man_time": "2018-10-01", "man_addr": "天津", "man_name": "2018漫go第三届国庆狂欢节", "man_price": "预40现45"}
+{"man_time": "2018-10-01", "man_addr": "沧州", "man_name": "2018回望初心·缘海周年祭", "man_price": "预30现35"}
+{"man_time": "2018-10-01", "man_addr": "保定", "man_name": "第16届保定ACG动漫文化节", "man_price": "预40现45"}
+{"man_time": "2018-10-01", "man_addr": "保定", "man_name": "AA动漫大保定第六届二次元文化交流祭", "man_price": "预35现45"}
+{"man_time": "2018-10-01", "man_addr": "通化", "man_name": "2018首届TCG神月动漫嘉年华", "man_price": "预30现35"}
+{"man_time": "2018-10-01", "man_addr": "吉林", "man_name": "第三届神月动漫嘉年华", "man_price": "预30现40"}
+{"man_time": "2018-10-01", "man_addr": "杭州", "man_name": "2018筑梦巡回动漫展—杭州站", "man_price": "等待补充"}
+{"man_time": "2018-10-01", "man_addr": "湖州", "man_name": "2018陈武帝故宫古风动漫游戏音乐节", "man_price": "60米"}
+{"man_time": "2018-10-01", "man_addr": "武汉", "man_name": "2018酷狗蘑菇·萤火虫动漫音乐嘉年华 武汉站01", "man_price": "50米"}
+{"man_time": "2018-10-01", "man_addr": "苏州", "man_name": "第十二届苏州动漫游戏嘉年华", "man_price": "预40现50"}
+{"man_time": "2018-10-01", "man_addr": "嘉兴", "man_name": "2018平湖Z区九龙山国庆动漫展", "man_price": "预40现50"}
+{"man_time": "2018-10-01", "man_addr": "杭州", "man_name": "2018建德逸龙动漫文化产业基地暨建德首届ACG文化节", "man_price": "预40现50"}
+{"man_time": "2018-10-01", "man_addr": "台州", "man_name": "2018台州TGD动漫文化交流节", "man_price": "预50现55"}
+{"man_time": "2018-10-01", "man_addr": "芜湖", "man_name": "芜湖Free Day2018动漫游戏嘉年华cos欢乐赛", "man_price": "预40现50"}
+{"man_time": "2018-10-01", "man_addr": "厦门", "man_name": "2018厦门萌都动漫节03", "man_price": "65米"}
+{"man_time": "2018-10-01", "man_addr": "萍乡", "man_name": "2018国庆NLxOD萍乡首届红白歌会", "man_price": "预35现40"}
+{"man_time": "2018-10-01", "man_addr": "吉安", "man_name": "2018吉安邮政第一届动漫嘉年华", "man_price": "预35现50"}
+{"man_time": "2018-10-01", "man_addr": "赣州", "man_name": "2018赣州蓝莓动漫文化交流会", "man_price": "预45现50"}
+{"man_time": "2018-10-01", "man_addr": "安阳", "man_name": "2018安阳promise约定次元", "man_price": "预35现40"}
+{"man_time": "2018-10-01", "man_addr": "郑州", "man_name": "2018筑梦x中国·中西部动漫文化巡展暨大豫金象动漫文化节", "man_price": "预50现55"}
+{"man_time": "2018-10-01", "man_addr": "黄石", "man_name": "2018黄石宇年代记动漫嘉年华", "man_price": "预35现40"}
+{"man_time": "2018-10-01", "man_addr": "惠州", "man_name": "2018惠州第二届ANIMATION SHOW动漫游戏展", "man_price": "预35现40"}
+{"man_time": "2018-10-01", "man_addr": "中山", "man_name": "2018中山十一动漫嘉年华", "man_price": "预35现40"}
+{"man_time": "2018-10-01", "man_addr": "阳江", "man_name": "2018阳江首届动漫节-暨第三届阳江弥漫纪", "man_price": "单40双45"}
+{"man_time": "2018-10-01", "man_addr": "南宁", "man_name": "2018南宁Climax动漫游戏嘉年华", "man_price": "预40米"}
+{"man_time": "2018-10-01", "man_addr": "海口", "man_name": "2018海南梦幻次元Ⅳ秋日祭", "man_price": "预40现50"}
+{"man_time": "2018-10-01", "man_addr": "绵阳", "man_name": "2018绵阳科技城动漫游戏嘉年华", "man_price": "预40现45"}
+{"man_time": "2018-10-01", "man_addr": "成都", "man_name": "第四届FOC动漫游戏嘉年华", "man_price": "预50现60"}
+{"man_time": "2018-10-01", "man_addr": "曲靖", "man_name": "2018曲靖爨宝动漫节秋日祭", "man_price": "预30现35"}
+{"man_time": "2018-10-01", "man_addr": "兰州", "man_name": "2018IM第15季—爱漫「丧心并狂」大作战！", "man_price": "预45现50"}
+{"man_time": "2018-10-01", "man_addr": "贵阳", "man_name": "2018贵阳Animation04动漫展", "man_price": "预售50"}
+{"man_time": "2018-10-01", "man_addr": "天津", "man_name": "第二十四届瞳画动漫展国庆盛典", "man_price": "预售45现场50"}
+{"man_time": "2018-10-01", "man_addr": "乌鲁木齐", "man_name": "第二届西域萌战秋日祭", "man_price": "预35现在40"}
+{"man_time": "2018-10-01", "man_addr": "上海", "man_name": "2018上海联萌·动漫嘉年华", "man_price": "免费"}
+{"man_time": "2018-10-01", "man_addr": "柳州", "man_name": "柳州·第八届YO!元気动漫展", "man_price": "预30现35"}
+{"man_time": "2018-10-02", "man_addr": "丹东", "man_name": "第四届优尼go游戏动漫展", "man_price": "预30现35"}
+{"man_time": "2018-10-02", "man_addr": "济南", "man_name": "2018济南盟卡同人祭05", "man_price": "预45"}
+{"man_time": "2018-10-02", "man_addr": "安阳", "man_name": "2018安阳大商动漫音乐文化节（CL漫展特别篇）", "man_price": "单日预售38元"}
+{"man_time": "2018-10-02", "man_addr": "南昌", "man_name": "2018江西GMC激萌动漫展", "man_price": "等待补充"}
+{"man_time": "2018-10-02", "man_addr": "绵阳", "man_name": "2018绵阳FM02.国风￥动漫节", "man_price": "预售票40"}
+{"man_time": "2018-10-02", "man_addr": "枣庄", "man_name": "2018枣庄喵KU祭10", "man_price": "预35现40"}
+{"man_time": "2018-10-02", "man_addr": "潍坊", "man_name": "2018第四届墨时雨动漫交流会", "man_price": "预35现40"}
+{"man_time": "2018-10-02", "man_addr": "潍坊", "man_name": "2018潍坊lemon动漫文化交流祭", "man_price": "预45现50"}
+{"man_time": "2018-10-02", "man_addr": "淄博", "man_name": "2018淄博江北电子竞技动漫嘉年华", "man_price": "单35通65"}
+{"man_time": "2018-10-02", "man_addr": "莱芜", "man_name": "2018CSC动漫嘉年华莱芜站", "man_price": "预40现45"}
+{"man_time": "2018-10-02", "man_addr": "东营", "man_name": "2018东营EF邂逅祭1.0", "man_price": "预40现45"}
+{"man_time": "2018-10-02", "man_addr": "商丘", "man_name": "第十届商丘SC动漫展·国庆欢乐祭", "man_price": "预40现50"}
+{"man_time": "2018-10-02", "man_addr": "潜江", "man_name": "2018潜江首届YC动漫展", "man_price": "预35现45"}
+{"man_time": "2018-10-02", "man_addr": "鄂州", "man_name": "2018楚曼ACG嘉年华·鄂州站 NO.1", "man_price": "预35现45"}
+{"man_time": "2018-10-02", "man_addr": "恩施", "man_name": "2018恩施CSEU EXPO 中国硒都动漫游戏展", "man_price": "预45现50"}
+{"man_time": "2018-10-02", "man_addr": "长沙", "man_name": "2018萌卡同人祭17", "man_price": "预45现50"}
+{"man_time": "2018-10-02", "man_addr": "梅州", "man_name": "第二届梅州木森动漫展", "man_price": "预35现40"}
+{"man_time": "2018-10-02", "man_addr": "桂林", "man_name": "2018桂林第一届FZ动漫嘉年华", "man_price": "预30米"}
+{"man_time": "2018-10-02", "man_addr": "沈阳", "man_name": "2018沈阳SCA动漫游戏节", "man_price": "预45现50"}
+{"man_time": "2018-10-02", "man_addr": "绥化", "man_name": "2018绥化秋日庆典嘉年华", "man_price": "预25现30"}
+{"man_time": "2018-10-02", "man_addr": "苏州", "man_name": "2018浣熊科研组第一弹！港城站！", "man_price": "预35现40"}
+{"man_time": "2018-10-02", "man_addr": "无锡", "man_name": "2018幻想领域07动漫游戏展", "man_price": "预41现46"}
+{"man_time": "2018-10-02", "man_addr": "洛阳", "man_name": "2018洛阳LCYACG-Dimesion Zero 5.0(国庆篇)", "man_price": "预40现50"}
+{"man_time": "2018-10-02", "man_addr": "苏州", "man_name": "2018苏州绅士猫S4", "man_price": "等待补充"}
+{"man_time": "2018-10-02", "man_addr": "上海", "man_name": "2018上海03RD酷狗蘑菇动漫音乐嘉年华FFACGEXPO", "man_price": "70米"}
+{"man_time": "2018-10-02", "man_addr": "宁波", "man_name": "2018第三届象山次元祭", "man_price": "预35现40"}
+{"man_time": "2018-10-02", "man_addr": "遂宁", "man_name": "2018年国庆遂宁本地漫展", "man_price": "35米"}
+{"man_time": "2018-10-02", "man_addr": "吉安", "man_name": "2018吉水第一届77漫品动漫展", "man_price": "25米"}
+{"man_time": "2018-10-02", "man_addr": "南昌", "man_name": "第四届OD江西国际动漫音乐节暨2018中国好宅舞全国总决赛", "man_price": "预45现50"}
+{"man_time": "2018-10-02", "man_addr": "临沂", "man_name": "二零一八兰陵首届国风音乐动漫盛典", "man_price": "单25通50"}
+{"man_time": "2018-10-02", "man_addr": "聊城", "man_name": "第8届聊城动漫展LMComic 8", "man_price": "预35现40"}
+{"man_time": "2018-10-02", "man_addr": "菏泽", "man_name": "2018第13届梦羽动漫盛典FDC13菏泽学园祭", "man_price": "预30现35"}
+{"man_time": "2018-10-02", "man_addr": "漯河", "man_name": "2018漯河古风的万事屋第十一届动漫嘉年华", "man_price": "预35现40"}
+{"man_time": "2018-10-02", "man_addr": "南阳", "man_name": "2018南阳帝乡动漫文化节03", "man_price": "预40现50"}
+{"man_time": "2018-10-02", "man_addr": "汕头", "man_name": "2018首届谷雨动漫电竞文化艺术节- 暨秋季CEL嘉年华", "man_price": "预40现45"}
+{"man_time": "2018-10-02", "man_addr": "钦州", "man_name": "钦州第十二届虎纹鲨动漫展", "man_price": "预35现40"}
+{"man_time": "2018-10-02", "man_addr": "百色", "man_name": "2018百色红叶秋日祭典", "man_price": "预30现35"}
+{"man_time": "2018-10-02", "man_addr": "昆明", "man_name": "2018昆明戌[xū]漫--秋日祭（真香警告）", "man_price": "40米"}
+{"man_time": "2018-10-02", "man_addr": "唐山", "man_name": "2018 C°动漫秋日祭唐山站", "man_price": "预售40现场45"}
+{"man_time": "2018-10-02", "man_addr": "包头", "man_name": "2018内蒙古CAD秋季动漫展", "man_price": "预45现50"}
+{"man_time": "2018-10-02", "man_addr": "广州", "man_name": "2018妖都APH主题ONLY 6.0", "man_price": "预50"}
+{"man_time": "2018-10-02", "man_addr": "成都", "man_name": "2018成都凹凸世界only", "man_price": "预50现60"}
+{"man_time": "2018-10-02", "man_addr": "安庆", "man_name": "2018安庆Ej06十一游园嘉年华", "man_price": "预25现35"}
+{"man_time": "2018-10-02", "man_addr": "北京", "man_name": "2018北京第八届IDOLIVE国际动漫音乐节", "man_price": "待定"}
+{"man_time": "2018-10-03", "man_addr": "台州", "man_name": "2018温岭10.3首届ACGC动漫展", "man_price": "预35现40"}
+{"man_time": "2018-10-03", "man_addr": "阜阳", "man_name": "2018阜阳微之翼第三届动漫文化祭", "man_price": "预40现45"}
+{"man_time": "2018-10-03", "man_addr": "宣城", "man_name": "2018宣城喵ku祭06", "man_price": "预35现40"}
+{"man_time": "2018-10-03", "man_addr": "扬州", "man_name": "2018扬州10.3CM&Neko动漫游戏展", "man_price": "预售55现场65"}
+{"man_time": "2018-10-03", "man_addr": "铜陵", "man_name": "2018安徽铜陵GT13秋日祭动漫电竞嘉年华", "man_price": "预45现50"}
+{"man_time": "2018-10-03", "man_addr": "凯里", "man_name": "2018凯里Half Dimension生肖祭2.5同人展", "man_price": "预35现40"}
+{"man_time": "2018-10-03", "man_addr": "廊坊", "man_name": "第二届京津冀文博会暨CLCAF9廊坊动漫电竞嘉年华", "man_price": "预15现30"}
+{"man_time": "2018-10-03", "man_addr": "无锡", "man_name": "2018无锡ZF16无限宅腐动漫嘉年华", "man_price": "普40VIP45"}
+{"man_time": "2018-10-03", "man_addr": "泰州", "man_name": "2018泰兴BMX动漫展", "man_price": "预35现40"}
+{"man_time": "2018-10-03", "man_addr": "三明", "man_name": "第三届燕城社联祭", "man_price": "预25现30"}
+{"man_time": "2018-10-03", "man_addr": "广州", "man_name": "2018广州少女前线only～秋日午后～", "man_price": "预55"}
+{"man_time": "2018-10-03", "man_addr": "梧州", "man_name": "2018年梧州源点动漫秋日祭", "man_price": "40米"}
+{"man_time": "2018-10-03", "man_addr": "杭州", "man_name": "2018杭州第一届新次元动漫游戏嘉年华", "man_price": "预108现118"}
+{"man_time": "2018-10-03", "man_addr": "广州", "man_name": "2018妖都凹凸世界ONLY2.0", "man_price": "预55"}
+{"man_time": "2018-10-03", "man_addr": "重庆", "man_name": "2018重庆极次元Limitless PARTY动漫音乐派对 2nd live", "man_price": "预70现80"}
+{"man_time": "2018-10-04", "man_addr": "丽水", "man_name": "2018丽水AX动漫游戏展", "man_price": "预35现40"}
+{"man_time": "2018-10-04", "man_addr": "铜陵", "man_name": "2018铜陵市第五届文化惠民消费季暨第二届猫薄荷动漫嘉年华", "man_price": "预45现50"}
+{"man_time": "2018-10-04", "man_addr": "平顶山", "man_name": "2018叶县首届动漫展", "man_price": "预35现40"}
+{"man_time": "2018-10-04", "man_addr": "黄冈", "man_name": "2018艾格动漫展", "man_price": "预35现40"}
+{"man_time": "2018-10-04", "man_addr": "成都", "man_name": "2018成都M-1动漫游戏嘉年华", "man_price": "预45现55"}
+{"man_time": "2018-10-04", "man_addr": "德阳", "man_name": "2018 中国（德阳）第17届Glory Days动漫展", "man_price": "等待补充"}
+{"man_time": "2018-10-04", "man_addr": "南通", "man_name": "2018第二届南通VCP庄园型轰趴漫展", "man_price": "预40现45"}
+{"man_time": "2018-10-04", "man_addr": "江门", "man_name": "第六届台山MBC", "man_price": "预30现35"}
+{"man_time": "2018-10-04", "man_addr": "吉林", "man_name": "2018中国·吉林市JCG.King动漫潮玩嘉年华", "man_price": "预30现35"}
+{"man_time": "2018-10-04", "man_addr": "苏州", "man_name": "2018常熟CTS3.0御宅动漫大作战", "man_price": "预40现50"}
+{"man_time": "2018-10-04", "man_addr": "广州", "man_name": "2018广州我的英雄学院only2.0", "man_price": "预50"}
+{"man_time": "2018-10-04", "man_addr": "安顺", "man_name": "2018安顺第四届DL动漫展", "man_price": "预50现55"}
+{"man_time": "2018-10-04", "man_addr": "遵义", "man_name": "2018遵义第一届海之翼初蝉动漫展", "man_price": "预35"}
+{"man_time": "2018-10-04", "man_addr": "上海", "man_name": "2018 钢之魂V超级机器人热血演唱会 上海 ～胜利者们的赞歌～", "man_price": "480~1280米"}
+{"man_time": "2018-10-05", "man_addr": "太原", "man_name": "2018山西YOUNG青春动漫交流展会", "man_price": "35米"}
+{"man_time": "2018-10-05", "man_addr": "淄博", "man_name": "NTC北方巡回漫展8.0", "man_price": "日30夜20"}
+{"man_time": "2018-10-05", "man_addr": "肇庆", "man_name": "2018首届肇庆木森动漫展", "man_price": "预30现35"}
+{"man_time": "2018-10-05", "man_addr": "宁波", "man_name": "2018第三届宁波米咔动漫游戏嘉年华", "man_price": "预45现50"}
+{"man_time": "2018-10-05", "man_addr": "天津", "man_name": "2018天津第九届舞动初心Cosplay动漫嘉年华", "man_price": "预40现45"}
+{"man_time": "2018-10-05", "man_addr": "乌鲁木齐", "man_name": "2018乌鲁木齐Holy Light Go“聖光祭”冒险者游戏1.0聖光初始", "man_price": "预35现40"}
+{"man_time": "2018-10-05", "man_addr": "广州", "man_name": "2018广州东方LiveParty", "man_price": "预160现199"}
+{"man_time": "2018-10-06", "man_addr": "泰安", "man_name": "第四届泰山动漫游戏嘉年华TE04", "man_price": "预45现50"}
+{"man_time": "2018-10-06", "man_addr": "黄冈", "man_name": "2018黄冈第三届XMY动漫游戏嘉年华", "man_price": "预35现40"}
+{"man_time": "2018-10-06", "man_addr": "无锡", "man_name": "2018北极星动漫嘉年华2.0", "man_price": "预35现40"}
+{"man_time": "2018-10-06", "man_addr": "成都", "man_name": "2018成都Play游戏动漫展", "man_price": "预40现50"}
+{"man_time": "2018-10-06", "man_addr": "北京", "man_name": "BILIBILI MACRO LINK 2018 BEIJING", "man_price": "380~1280米"}
+{"man_time": "2018-10-11", "man_addr": "苏州", "man_name": "2018苏州电竞博览会暨苏州电玩展", "man_price": "38"}
+{"man_time": "2018-10-13", "man_addr": "沧州", "man_name": "2018沧州狮城漫展6s秋日祭", "man_price": "预35现40"}
+{"man_time": "2018-10-20", "man_addr": "三亚", "man_name": "第三届三亚青芒动漫展", "man_price": "预35"}
+{"man_time": "2018-10-20", "man_addr": "上海", "man_name": "2018上海联萌第二届日式漫展", "man_price": "免费"}
+{"man_time": "2018-10-20", "man_addr": "北京", "man_name": "第三届囧神CO创作展", "man_price": "预40现50"}
+{"man_time": "2018-10-20", "man_addr": "杭州", "man_name": "2018 COS RUN幻装嘉年华—杭州龙坞站", "man_price": "等待补充"}
+{"man_time": "2018-10-26", "man_addr": "上海", "man_name": "2018上海漫控潮流博览会（SHCC）", "man_price": "138米"}
+{"man_time": "2018-10-26", "man_addr": "合肥", "man_name": "合肥第九届动漫欢乐节", "man_price": "等待补充"}
+{"man_time": "2018-10-27", "man_addr": "潮州", "man_name": "第二届潮州MG动漫游戏展", "man_price": "预30现35"}
+{"man_time": "2018-10-27", "man_addr": "沈阳", "man_name": "第二届沈阳万圣节动漫嘉年华", "man_price": "预35现40"}
+{"man_time": "2018-10-27", "man_addr": "成都", "man_name": "第五届PD动漫节万圣狂欢盛典", "man_price": "预40现50"}
+{"man_time": "2018-10-27", "man_addr": "天津", "man_name": "天津第二十届大萌猫动漫节", "man_price": "预售45"}
+{"man_time": "2018-10-27", "man_addr": "天津", "man_name": "第一届天津TCG电竞桌游动漫游戏嘉年华暨第25届天津瞳画动漫节万圣祭", "man_price": "预50现55"}
+{"man_time": "2018-10-27", "man_addr": "上海", "man_name": "2018上海次元万圣节一起鬼混", "man_price": "免费"}
+{"man_time": "2018-10-27", "man_addr": "无锡", "man_name": "GM08私立幻想乡魔法学院Halloween Party10.27", "man_price": "预40现45"}
+{"man_time": "2018-10-27", "man_addr": "西安", "man_name": "第四届酷米动漫视听交响音乐会", "man_price": "等待补充"}
+{"man_time": "2018-11-03", "man_addr": "东莞", "man_name": "2018第三届XiMi动漫游戏·秋日祭", "man_price": "预40现45"}
+{"man_time": "2018-11-03", "man_addr": "上海", "man_name": "2018上海WePlay游戏文化展", "man_price": "普100VIP300"}
+{"man_time": "2018-11-03", "man_addr": "长沙", "man_name": "2018青空学园祭4.0冬日特典", "man_price": "预40现45"}
+{"man_time": "2018-11-03", "man_addr": "北京", "man_name": "2018次元天成·萌音舍动漫庆典2.0", "man_price": "预60现65"}
+{"man_time": "2018-11-03", "man_addr": "成都", "man_name": "2018成都星幻动漫秋日祭", "man_price": "预40现45"}
+{"man_time": "2018-11-03", "man_addr": "广州", "man_name": "2018妖都marvel-only", "man_price": "预58现66"}
+{"man_time": "2018-11-03", "man_addr": "哈尔滨", "man_name": "2018哈尔滨第三届JOY GARDEN动漫游戏嘉年华狂欢祭", "man_price": "预40现45"}
+{"man_time": "2018-11-03", "man_addr": "郑州", "man_name": "2018郑州LY玥动漫展", "man_price": "预35现40"}
+{"man_time": "2018-11-03", "man_addr": "武汉", "man_name": "2018武汉第一届FGO-only展—特异点·炎都の狂欢", "man_price": "等待补充"}
+{"man_time": "2018-11-04", "man_addr": "武汉", "man_name": "2018武汉跑跑姜饼人only", "man_price": "预45现50"}
+{"man_time": "2018-11-04", "man_addr": "秦皇岛", "man_name": "2018秦皇岛艾尔国际动漫博览会", "man_price": "预45现50"}
+{"man_time": "2018-11-09", "man_addr": "大连", "man_name": "2018大连动漫联展暨第四届冬漫节", "man_price": "单40双70"}
+{"man_time": "2018-11-10", "man_addr": "宁波", "man_name": "宁波第二届皮皮喵动漫嘉年华", "man_price": "预45现50"}
+{"man_time": "2018-11-10", "man_addr": "福州", "man_name": "2018福州FUN次元动漫嘉年华", "man_price": "预50现55"}
+{"man_time": "2018-11-10", "man_addr": "南京", "man_name": "2018MCJ动漫游戏嘉年华 - 南京", "man_price": "预40现50"}
+{"man_time": "2018-11-11", "man_addr": "石家庄", "man_name": "2018双11石家庄NCE动漫嘉年华", "man_price": "等待补充"}
+{"man_time": "2018-11-11", "man_addr": "敬请等待", "man_name": "2018七云动漫游戏嘉年华", "man_price": "预35现45"}
+{"man_time": "2018-11-11", "man_addr": "郑州", "man_name": "2018郑州七云动漫游戏嘉年华", "man_price": "预35现45"}
+{"man_time": "2018-11-11", "man_addr": "滁州", "man_name": "2018滁州GS动漫同萌展", "man_price": "35元"}
+{"man_time": "2018-11-11", "man_addr": "徐州", "man_name": "2018睢宁第几次漫展05", "man_price": "预30现35"}
+{"man_time": "2018-11-11", "man_addr": "青岛", "man_name": "2018青岛首届QD动漫游戏嘉年华", "man_price": "预45现50"}
+{"man_time": "2018-11-11", "man_addr": "昆明", "man_name": "2018昆明Show live", "man_price": "预25现30"}
+{"man_time": "2018-11-11", "man_addr": "揭阳", "man_name": "2018普宁星河LCK01电竞动漫嘉年华", "man_price": "预30现35"}
+{"man_time": "2018-11-11", "man_addr": "秦皇岛", "man_name": "2018第二届海市蜃楼动漫展（斩）", "man_price": "预30现40"}
+{"man_time": "2018-11-17", "man_addr": "广州", "man_name": "2018 HCG启示录动漫游戏科技博览会", "man_price": "预50现60"}
+{"man_time": "2018-11-17", "man_addr": "广州", "man_name": "广州·2018 HCG LIVE FUN 会", "man_price": "预50米"}
+{"man_time": "2018-11-17", "man_addr": "合肥", "man_name": "2018合肥U喵二次元次元之门动漫游戏嘉年华秋日祭", "man_price": "预50现60"}
+{"man_time": "2018-11-17", "man_addr": "上海", "man_name": "第六届上海次元喵动漫节", "man_price": "预45现55"}
+{"man_time": "2018-11-24", "man_addr": "西安", "man_name": "2018第三届西安梦乡动漫展", "man_price": "预50现60"}
+{"man_time": "2018-11-24", "man_addr": "大连", "man_name": "第15届大连高校动漫联展", "man_price": "45米"}
+{"man_time": "2018-11-25", "man_addr": "邵阳", "man_name": "2018邵阳HC冬日祭", "man_price": "预35现40"}
+{"man_time": "2018-11-25", "man_addr": "漳州", "man_name": "第一届 UT次元1.0动漫嘉年华", "man_price": "预30现35"}
+{"man_time": "2018-12-01", "man_addr": "台州", "man_name": "2018台州CCAC动漫展01", "man_price": "预40现50"}
+{"man_time": "2018-12-01", "man_addr": "长沙", "man_name": "2018长沙星漫2.0动漫游戏嘉年华", "man_price": "45米"}
+{"man_time": "2018-12-30", "man_addr": "北京", "man_name": "第29届中国（北京）动漫游戏嘉年华（IDO29）", "man_price": "待定"}
+{"man_time": "2018-12-30", "man_addr": "金华", "man_name": "金华QEI EXPO2018第一届梦想之门二次元文化博览会", "man_price": "预50现60"}
+{"man_time": "2018-12-31", "man_addr": "杭州", "man_name": "2018富阳SECON动漫跨年祭", "man_price": "预40现50"}
+{"man_time": "2018-12-31", "man_addr": "保定", "man_name": "保定第四届COMIC PARTY动漫展", "man_price": "预40现45"}

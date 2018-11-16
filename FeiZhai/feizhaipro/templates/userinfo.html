@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<div align="center"><h1>用户中心</h1></div>
+<div><a href="{% url 'user:homepage' %}">回到主页</a></div>
+<div><font size="10" color="blue">用户名：{{ user.username }}</font></div>
+<br/>
+<br/>
+<HR style="border:3 double #987cb9" width="80%" color=#987cb9 SIZE=3>
+<font size="5" color="#ff7f50">资讯收藏：</font>
+<br/>
+<br/>
+{% for i in cotart %}
+    <div>
+    {{ forloop.counter }}<a href="/news/newsdetail/{{ i.id }}/">{{ i.arttitle }}</a>
+    <a href="/user/delartcollect/{{ i.id }}/">删除收藏</a>
+    </div>
+    <br/>
+    <br/>
+{% endfor %}
+<HR style="border:3 double #987cb9" width="80%" color=#987cb9 SIZE=3>
+<font size="5" color="#ff7f50">笑话收藏：</font>
+<br/>
+<br/>
+{% for j in cotjoke %}
+    <div>
+    {% ifequal j.joketype.id 1 %}
+        <span>{{ j.jokeauthor }}</span>
+        <img src="{{ j.jokeimg }}" width="500" height="500">
+        <span>{{ j.jokecontent }}</span>
+    {% else %}
+        <span>{{ j.jokeauthor }}</span>
+        <span>{{ j.jokecontent }}</span>
+    {% endifequal %}
+    </div>
+    <br/>
+{% endfor %}
+<br/>
+<HR style="border:3 double #987cb9" width="80%" color=#987cb9 SIZE=3>
+
+</body>
+</html>
